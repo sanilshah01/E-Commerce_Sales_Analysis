@@ -3,13 +3,6 @@
 An end-to-end **Business Intelligence project** built with **SQL → Python → Power BI**
 
 ---
-## 🔗 Live Dashboard
-
-Click here to view the Power BI dashboard:
-
-[View Dashboard](https://app.powerbi.com/links/hJR_rhLtg4?ctid=e66d4a36-e7af-4202-abd5-360d3aa12b25&pbi_source=linkShare)
-
----
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![SQL](https://img.shields.io/badge/Database-SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver)
