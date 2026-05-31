@@ -275,7 +275,7 @@ Built at **order-item level** and includes:
 - Revenue exceeded target by **11%** — strong overall performance
 - **54%** of customers are **At Risk** — urgent need for re-engagement campaigns
 - **Electronics** drives **42%** of total revenue
-- **20%** delivery delay rate — logistics improvement needed
+- **11%** delivery delay rate — logistics improvement needed
 - Only **32.9%** of viewers convert to buyers — funnel optimization opportunity
 - **UPI** is the dominant payment method (**39.5%** of orders)
 - Best retention cohort: **April 2025** — worth studying what worked
@@ -294,7 +294,7 @@ Built at **order-item level** and includes:
 
 ## 👨‍💻 About Me
 
-**Sayan Naha**
+**Sanil Shah**
 
 📧 **Email:** sanilshah4969@gmail.com  
 🔗 **LinkedIn:** [Sanil Shah](https://www.linkedin.com/in/sanilshah-data/)
