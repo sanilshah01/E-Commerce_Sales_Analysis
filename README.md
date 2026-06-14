@@ -1,4 +1,4 @@
-# 🛒 Amazon E-Commerce Sales Dashboard
+# 🛒 E-Commerce Sales Dashboard
 
 An end-to-end **Business Intelligence project** built with **SQL → Python → Power BI**
 
@@ -15,7 +15,7 @@ An end-to-end **Business Intelligence project** built with **SQL → Python → 
 
 This project is a complete data analytics pipeline — starting from raw e-commerce data and ending with an interactive **5-page Power BI dashboard**.
 
-The goal was to analyze an Amazon-style e-commerce dataset and build a dashboard that helps business teams understand:
+The goal was to analyze an e-commerce dataset and build a dashboard that helps business teams understand:
 
 - Overall sales and profit performance
 - Customer behavior and segmentation
